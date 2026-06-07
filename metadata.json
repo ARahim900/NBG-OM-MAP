@@ -1,0 +1,8 @@
+{
+  "name": "North Al Batinah Health Dashboard",
+  "description": "Modern interactive web app dashboard for North Al Batinah, Oman health facilities",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
